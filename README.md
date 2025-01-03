@@ -1,6 +1,3 @@
-# portfolio-project
-
-**Remember that this project cannot be submitted late.**
 
 Write a class named **ChessVar** for playing an abstract board game that is a variant of chess. The following explanation of the rules assumes some familiarity with the rules of chess - specifically how the pieces move and capture. If you have any questions about those rules, please don't hesitate to ask.
 
